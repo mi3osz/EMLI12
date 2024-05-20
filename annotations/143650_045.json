@@ -5,6 +5,9 @@
   "Trigger": "Time",
   "Subject Distance": 0.5574136009,
   "Exposure Time": "1/33",
-  "ISO": 200
+  "ISO": 200,
+  "Annotation": {
+    "New Source": "Ollama:7b",
+    "Text": " This is a photo of a red fox. The fox has a dense coat, predominantly reddish-brown with white markings on its face and chest area. Its ears are pointed upwards and alert. The fox's eyes are open, and it appears to be looking directly at the camera. The background suggests an outdoor setting with what looks like dry grass or straw and a hint of what might be a clear sky or snow-covered ground, depending on the season. "
   }
 }
