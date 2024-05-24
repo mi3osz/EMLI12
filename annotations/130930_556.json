@@ -1,0 +1,13 @@
+{
+  "File Name": "130930_556.jpg",
+  "Create Date": "2024:05:24 13:09:31+02:00",
+  "Create Seconds Epoch": 1716548970.556,
+  "Trigger": "External",
+  "Subject Distance": 0.5324813632,
+  "Exposure Time": "1/77",
+  "ISO": 112,
+  "Annotation": {
+    "New Source": "Ollama:7b",
+    "Test": " This image shows a close-up view of what appears to be the bottom surface of an oven. The interior is metallic with multiple compartments, and there are several holes for ventilation. One notable feature is a circular, metal grate located in the center of the image. The surrounding area looks like it's made of stainless steel, which is common in kitchen appliances to prevent fire or rust. The focus and composition suggest that this photo might have been taken using a macro lens, given the close-up view and the distortion typically associated with such photography techniques. "
+  }
+}

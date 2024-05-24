@@ -1,0 +1,13 @@
+{
+  "File Name": "130918_356.jpg",
+  "Create Date": "2024:05:24 13:09:19+02:00",
+  "Create Seconds Epoch": 1716548958.356,
+  "Trigger": "External",
+  "Subject Distance": 0.6693440428,
+  "Exposure Time": "1/71",
+  "ISO": 112,
+  "Annotation": {
+    "New Source": "Ollama:7b",
+    "Test": " This image appears to be taken with a camera at an angle, capturing the bottom edge of what looks like a large piece of equipment or machinery. The background is out of focus, suggesting the camera was moving when the photo was taken, or it could be due to depth of field in photography. The colors are predominantly blue and gray, with some hints of white and black, which might suggest that this equipment could be part of a technology or science setting. There's no text present on the image. "
+  }
+}

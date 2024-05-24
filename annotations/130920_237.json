@@ -1,0 +1,13 @@
+{
+  "File Name": "130920_237.jpg",
+  "Create Date": "2024:05:24 13:09:21+02:00",
+  "Create Seconds Epoch": 1716548960.237,
+  "Trigger": "External",
+  "Subject Distance": 0.5701254276,
+  "Exposure Time": "1/64",
+  "ISO": 112,
+  "Annotation": {
+    "New Source": "Ollama:7b",
+    "Test": " The image appears to show a person's hand with a finger pointing towards an object. In the foreground, there is a close-up view of a ceiling tile that looks like it could be made of corrugated metal or cardboard. This material is often used for insulation or acoustical purposes in construction and industrial settings. The tile has a circular opening with what seems to be a circular object or vent inside it, which might be an air return vent from an HVAC system. There's a small hole at the edge of the tile that could be for screwing into place, though it is not clear if any screws are present. The background is out of focus and does not provide additional context. "
+  }
+}

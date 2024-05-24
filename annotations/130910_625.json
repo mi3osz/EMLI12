@@ -1,0 +1,13 @@
+{
+  "File Name": "130910_625.jpg",
+  "Create Date": "2024:05:24 13:09:11+02:00",
+  "Create Seconds Epoch": 1716548950.625,
+  "Trigger": "External",
+  "Subject Distance": 0.4253509145,
+  "Exposure Time": "1/92",
+  "ISO": 112,
+  "Annotation": {
+    "New Source": "Ollama:7b",
+    "Test": " In the image, there is a person sitting in front of a laptop. The individual appears to be smiling and looking directly at the camera. They have short hair and are wearing a grey top. Behind the person is a blurred background with what seems to be white blinds or curtains. To their right, there is an open window that allows natural light into the room. On the left side of the image, there appears to be another object, but it's not clear enough to identify. The overall setting suggests an indoor environment, possibly a home or office. "
+  }
+}

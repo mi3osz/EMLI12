@@ -1,0 +1,13 @@
+{
+  "File Name": "130916_382.jpg",
+  "Create Date": "2024:05:24 13:09:17+02:00",
+  "Create Seconds Epoch": 1716548956.382,
+  "Trigger": "External",
+  "Subject Distance": 0.645994832,
+  "Exposure Time": "1/68",
+  "ISO": 112,
+  "Annotation": {
+    "New Source": "Ollama:7b",
+    "Test": " The image you've provided appears to be taken from a distance and at an angle, making it difficult to provide detailed information about the content of the image. It shows what looks like an interior space, possibly a room under renovation or construction, with some fixtures visible, such as a toilet bowl and a sink basin. The flooring seems to be a combination of tiles and other materials, and there are some circular elements that could be part of the design or construction process. The image quality is low, which further hinders the ability to provide specific details about the scene. "
+  }
+}

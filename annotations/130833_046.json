@@ -1,0 +1,13 @@
+{
+  "File Name": "130833_046.jpg",
+  "Create Date": "2024:05:24 13:08:34+02:00",
+  "Create Seconds Epoch": 1716548913.046,
+  "Trigger": "External",
+  "Subject Distance": 0.3022974607,
+  "Exposure Time": "1/50",
+  "ISO": 112,
+  "Annotation": {
+    "New Source": "Ollama:7b",
+    "Test": " The image is a composite of two different photographs, placed side by side. On the left, there's a photograph showing an interior space with a dark ceiling and a brightly lit area in the foreground. The lighting casts shadows on what appears to be a mirror or reflective surface, which suggests the photo was taken during daylight hours when the sun is shining.\n\nOn the right, there's another photograph that seems to show an exterior space with a wall featuring horizontal lines and a reflection of light. This part of the image has a more muted color palette compared to the left side. The reflections on the surface suggest it could be a shiny metal or glass panel.\n\nThe two photos are combined in a way that creates a transition from the interior to the exterior scene, providing a contrast between indoor and outdoor lighting conditions. "
+  }
+}
