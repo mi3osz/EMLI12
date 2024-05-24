@@ -1,13 +1,7 @@
 {
-  "File Name": "130920_237.jpg",
-  "Create Date": "2024:05:24 13:09:21+02:00",
-  "Create Seconds Epoch": 1716548960.237,
-  "Trigger": "External",
-  "Subject Distance": 0.5701254276,
-  "Exposure Time": "1/64",
-  "ISO": 112,
-  "Annotation": {
-    "New Source": "Ollama:7b",
-    "Test": " In the image, you can see a section of a floor with a large, circular opening covered by what appears to be a transparent sheet. The surrounding area is tiled and has a reflective quality, suggesting it might be made of metal or have a metallic finish. There's a small amount of debris on the edge of the opening. In the foreground, there's a finger pressing against the transparent sheet, creating a slight reflection and distortion on the surface where it touches. The image is taken at an angle, with the floor in the lower third of the frame and the open area above. The style of the photo seems candid, possibly taken by someone inspecting or pointing out the opening in the floor. "
-  }
-}
+              "File Name": "130920_237.jpg",
+              "Annotation": {
+                "New Source": "Ollama:7b",
+                "Test": " This image appears to be taken from a smartphone or another device, as indicated by the reflection on the screen. The photo shows a person's finger touching the camera lens, and through this lens, we can see an object that looks like a round, possibly metallic item with a hole in the center. The object is placed on what seems to be a white surface with some black markings or patterns around it. The background suggests an indoor setting, possibly a room undergoing construction or renovation, given the presence of what appears to be ceiling tiles. The image quality is somewhat grainy and low-resolution, which may be due to camera shake during the capture. "
+              }
+            }
