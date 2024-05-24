@@ -27,7 +27,7 @@ process_image() {
         fi
     fi
 
-    # Run Ollama only if needed
+    # Run Ollama only if not annotated
     local ollama_output=$(ollama run llava:${MODEL_VERSION} "describe $image_file")
     if [ $? -eq 0 ]; then
         if [ -f "$json_file" ]; then
@@ -55,7 +55,7 @@ export REPO_DIR
 export TARGET_FOLDER
 export ROOT_DIR
 
-# Infinite loop to continuously check for new images
+# Continuously check for new images
 while true; do
     # Find all JPG images in the directory and subdirectories and process each one
     find "$ROOT_DIR" -type f -iname "*.jpg" -exec bash -c 'process_image "$0"' {} \;
@@ -66,7 +66,7 @@ while true; do
     # Stage the new or updated JSON files
     git add "$TARGET_FOLDER"/*.json
 
-    # Commit the changes to the repository if there are any staged files
+    # Commit the changes to the repo
     if git diff-index --quiet HEAD --; then
         :
     else
@@ -74,6 +74,6 @@ while true; do
         git push origin main
     fi
 
-    # Wait for the specified interval before checking again
+    # Wait and check again
     sleep $SLEEP_INTERVAL
 done
