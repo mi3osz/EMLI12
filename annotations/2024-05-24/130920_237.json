@@ -1,0 +1,13 @@
+{
+  "File Name": "130920_237.jpg",
+  "Create Date": "2024:05:24 13:09:21+02:00",
+  "Create Seconds Epoch": 1716548960.237,
+  "Trigger": "External",
+  "Subject Distance": 0.5701254276,
+  "Exposure Time": "1/64",
+  "ISO": 112,
+  "Annotation": {
+    "New Source": "Ollama:7b",
+    "Test": " The image you've shared appears to show a close-up view of a section of a ceiling with visible tiles or panels. There are two circular elements, one of which seems to be an inset light or fixture. The photo is taken from a low angle, making the perspective somewhat unusual and distorted. Additionally, there is a hand holding a small item that appears to be a camera or another type of lens, indicating that the photo may have been taken with a fisheye lens or a similar wide-angle attachment. This results in a distorted perspective that makes the room seem flatter than it probably is. "
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "File Name": "130918_356.jpg",
+  "Create Date": "2024:05:24 13:09:19+02:00",
+  "Create Seconds Epoch": 1716548958.356,
+  "Trigger": "External",
+  "Subject Distance": 0.6693440428,
+  "Exposure Time": "1/71",
+  "ISO": 112,
+  "Annotation": {
+    "New Source": "Ollama:7b",
+    "Test": " The image is a bit blurry, but it appears to show a close-up view of a surface with what looks like water or some liquid on it. There's a reflection visible, suggesting that the surface is shiny and possibly made of glass or metal. In the bottom left corner of the image, there is a blue line or strip, which could be a part of an object or structure in the background. The overall composition of the photo suggests it was taken with a camera positioned at an angle to capture this scene, likely for aesthetic or artistic purposes rather than documentary or informative intent. "
+  }
+}
