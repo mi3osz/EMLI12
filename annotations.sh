@@ -4,7 +4,7 @@ ROOT_DIR="/home/milosz/Downloads/m"
 MODEL_VERSION="7b"
 REPO_DIR="/home/milosz/EMLI12"
 TARGET_FOLDER="annotations"
-COMMIT_MESSAGE="Update and standardize annotations in JSON files"
+COMMIT_MESSAGE="Update annotations in JSON files"
 SLEEP_INTERVAL=5 # Wait time between checks
 
 mkdir -p "$REPO_DIR/$TARGET_FOLDER"
