@@ -4,8 +4,7 @@ ROOT_DIR="/home/milosz/Downloads/m"
 MODEL_VERSION="7b"
 REPO_DIR="/home/milosz/EMLI12"
 TARGET_FOLDER="annotations"
-COMMIT_MESSAGE="Update and standardize annotations in JSON files"
-SLEEP_INTERVAL=0 # Time to wait between checks (in seconds)
+COMMIT_MESSAGE="Added new JSON files with annotations"
 
 mkdir -p "$REPO_DIR/$TARGET_FOLDER"
 
@@ -82,8 +81,6 @@ while true; do
         git push origin main
     fi
 
-     echo "All images processed and changes committed to the repository."
+     echo "All imagesfrom the batch processed and changes committed to the repository."
 
-    # Wait for the specified interval before checking again
-    sleep $SLEEP_INTERVAL
 done
