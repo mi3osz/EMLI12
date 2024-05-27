@@ -1,0 +1,13 @@
+{
+  "File Name": "130912_576.jpg",
+  "Create Date": "2024:05:24 13:09:13+02:00",
+  "Create Seconds Epoch": 1716548952.576,
+  "Trigger": "External",
+  "Subject Distance": 0.3544842255,
+  "Exposure Time": "1/88",
+  "ISO": 112,
+  "Annotation": {
+    "New Source": "Ollama:7b",
+    "Test": " In the image, there is a man standing in front of a window. The man appears to be in his late 20s or early 30s and has short hair. He is looking directly at the camera with a slight smile on his face. He is wearing a t-shirt and shorts. Behind him, there's a room with a white wall, and on the wall, there are some writings or notes that are not clearly visible. The photo seems to be taken in an office or home workspace, as indicated by the presence of what looks like a computer desk and monitor in the background. "
+  }
+}
