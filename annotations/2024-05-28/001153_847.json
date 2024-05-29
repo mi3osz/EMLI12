@@ -1,0 +1,13 @@
+{
+  "File Name": "001153_847.jpg",
+  "Create Date": "2024:05:28 00:11:57+02:00",
+  "Create Seconds Epoch": 1716847913.847,
+  "Trigger": "Motion",
+  "Subject Distance": 4.366812227,
+  "Exposure Time": "1/692",
+  "ISO": 114,
+  "Annotation": {
+    "New Source": "Ollama:7b",
+    "Test": " In the image, we see a person standing in a riverbank area. The individual is wearing dark clothing and appears to be looking into the water. The background features a calm river with clear water, reflecting the trees and sky above. There's also some vegetation on the bank. The weather seems overcast, as suggested by the muted colors in the image. A building with a red roof can be seen in the distance, partially obscured by the tree line. "
+  }
+}
