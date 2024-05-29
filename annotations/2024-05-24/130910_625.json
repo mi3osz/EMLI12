@@ -1,0 +1,13 @@
+{
+  "File Name": "130910_625.jpg",
+  "Create Date": "2024:05:24 13:09:11+02:00",
+  "Create Seconds Epoch": 1716548950.625,
+  "Trigger": "External",
+  "Subject Distance": 0.4253509145,
+  "Exposure Time": "1/92",
+  "ISO": 112,
+  "Annotation": {
+    "New Source": "Ollama:7b",
+    "Test": " The image shows a person with short hair, smiling at the camera. They are standing in front of a whiteboard or wall with some writing on it, which is not fully legible due to the angle and distance from the camera. The individual appears to be wearing a casual shirt, and their arms are slightly raised. The background suggests an indoor setting, possibly an office or classroom environment. "
+  }
+}
