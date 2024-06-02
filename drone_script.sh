@@ -147,6 +147,13 @@ while true; do
                 echo "Successfully Downloaded $name"
                 echo "$line" >> "$own_file"
 
+                time=$(date +%s)
+                #ssh -i "/home/bot/keynumber2" phub@192.168.10.1 "sed -i '$ a \"Drone Copy\": {\"Drone ID\": \"WILDDRONE-001\", \"Seconds Epoch\": $time}' $image_path/$line.json"
+                sed -i '$ s/}/,\n    "Drone Copy": {"Drone ID": "WILDDRONE-001", "Seconds Epoch": '"$time"'}\n}/' $image_path/$line.json
+
+
+
+
               else
                 echo "Failed to download $name"
                 break
