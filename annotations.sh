@@ -1,8 +1,8 @@
 #!/bin/bash
 
-ROOT_DIR="/home/milosz/Downloads/ma"
-MODEL_VERSION="7b"
-REPO_DIR="/home/milosz/EMLI12"
+ROOT_DIR="/home/milosz/Downloads/ma" #offload directory
+MODEL_VERSION="7b"#ollama model
+REPO_DIR="/home/milosz/EMLI12"#local repo directory
 TARGET_FOLDER="annotations"
 COMMIT_MESSAGE="Added new JSON files with annotations"
 
