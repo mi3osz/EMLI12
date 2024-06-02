@@ -23,7 +23,7 @@ process_image() {
     # Check before annotating
     if [ -f "$json_file" ]; then
         # echo "Found existing JSON file: $json_file"
-        if jq -e '.Annotation."New Source" | contains("Ollama:'$MODEL_VERSION'")' "$json_file" > /dev/null 2>&1; then
+        if jq -e '.Annotation."Source" | contains("Ollama:'$MODEL_VERSION'")' "$json_file" > /dev/null 2>&1; then
             # echo "Skipping $image_file"
             # copy so file is up to date
             cp "$json_file" "$target_json_file"
@@ -42,7 +42,7 @@ process_image() {
     if [ $? -eq 0 ]; then
         # Annotate existing JSON file
         jq --arg version "Ollama:$MODEL_VERSION" --arg text "$ollama_output" \
-           '.Annotation["New Source"] = $version | .Annotation.Test = $text' "$json_file" > tmp.$$ && mv tmp.$$ "$json_file"
+           '.Annotation["Source"] = $version | .Annotation.Test = $text' "$json_file" > tmp.$$ && mv tmp.$$ "$json_file"
 
         # Copy the JSON to git repository
         cp "$json_file" "$target_json_file"
