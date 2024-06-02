@@ -6,6 +6,10 @@
   "Subject Distance": 7.692307692,
   "Exposure Time": "1/692",
   "ISO": 112,
+  "Drone Copy": {
+    "Drone ID":"WILDDRONE-001",
+    "Seconds Epoch": 1716847920.334,
+  }
   "Annotation": {
     "Source": "Ollama:7b",
     "Test": " The image shows a person in the foreground, seemingly engaged in an outdoor activity near a body of water. The individual appears to be wearing dark clothing and is bending down towards the water's edge. It's not entirely clear what they are doing from this angle; however, it could be fishing, picking up something from the riverbed, or some other water-related task.\n\nThe background features a natural landscape with trees on both sides of the river and lush green vegetation. The sky is overcast, and the overall atmosphere suggests a peaceful, rural setting. The image has a photographic quality, capturing the scene in color. "
